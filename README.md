@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahumblefool
 - 👀 I find joy in adding value to myself and to this world everyday through my personality and code :)
-- 🌱 I’m currently learning Go, Docker, K8s, AWS
+- 🌱 Expert in builing backend distributed systems using Go, Java, Docker, K8s and AWS
 - 💞️ I’m looking to collaborate on projects that deal with huge data, System design discussions, willing to happily mentor or participate in mock interviews
 - 📫 How to reach me
   - behumblefool@gmail.com
